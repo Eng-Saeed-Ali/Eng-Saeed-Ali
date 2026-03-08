@@ -1,24 +1,23 @@
-# Hi there, I'm Saeed Ali! 👋👨‍💻
+# Hi there, I'm Eng. Saeed Ali! 👋👨‍💻
 
-🚀 **Software Engineer | Backend Developer | Systems Builder**
+🚀 **Computer Engineer | Systems & Backend Developer**
 
-I am a Software Engineer transitioning from writing simple automation scripts to engineering robust, stateful applications. I specialize in building solid backend logic, object-oriented systems, and working directly with file systems to manage data securely.
+As a **Computer Engineer**, I bridge the gap between hardware architecture and software engineering. I don't just write code; I build robust, memory-efficient systems from the ground up. My focus is on writing clean, high-performance logic using **C++** and managing stateful applications.
 
 ### 🛠️ My Tech Stack
-* **Core Languages:** C++, Python (Scripting & Automation)
-* **Concepts:** Object-Oriented Programming (OOP), Data Structures, File I/O, State Management.
+* **Core Languages:** C++ (Memory Management, OOP, Systems Programming), Python (Automation & Scripting).
+* **Engineering Concepts:** Object-Oriented System Design, File I/O & Persistent Storage, Data Structures, Low-Level Logic.
 * **Tools:** Git, GitHub, Code::Blocks.
 
 ### 🔭 Featured Project: GigaBank ATM System
 A complete, stateful ATM backend application built entirely from scratch in **C++**. 
-* **What it does:** Simulates a real banking environment where users can login, withdraw, and deposit money safely.
-* **Engineering highlights:** Uses **OOP** for secure client data encapsulation, implements robust validation to prevent infinite loops, and utilizes `fstream` to persistently update database balances and track logs across multiple sessions.
+* **Engineering Highlights:** - Designed an **OOP** architecture to securely encapsulate customer banking data.
+  - Implemented persistent database state management using `fstream` (File I/O).
+  - Built strict input validation and transaction logging mechanisms for system security and auditing.
 * 👉 [Click here to view the GigaBank Source Code](حط_لينك_الريبو_بتاعت_البنك_هنا)
 
-### 📈 Background (Automation & Python)
-While my current core focus is C++ and system architecture, I also have a background in workflow automation. I can utilize Python for quick tasks like:
-* Web Scraping (BeautifulSoup, Selenium)
-* Data Cleaning and File Organization (Pandas)
+### 📈 Background (Automation & Data)
+In addition to core systems programming, I leverage Python to automate repetitive workflows, scrape web data, and manage large datasets efficiently using tools like Selenium and Pandas.
 
 ### 📫 Connect with Me
 [LinkedIn](حط_لينك_لينكد_إن_بتاعك) | [Email](mailto:حط_ايميلك_هنا)
